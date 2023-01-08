@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WellcomeMyStar&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ThinkMoomin&fontSize=90" />
   
   <h1>🤚Hello ThinkMoomin World Wellcome</h1>
 
