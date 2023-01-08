@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-java-222222?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/-java-8f784b?style=for-the-badge&logo=java)
 ![oracle](https://img.shields.io/badge/-oracle-F05032?style=for-the-badge&logo=oracle)
 ![python](https://img.shields.io/badge/-pytnon-525252?style=for-the-badge&logo=python)
 ![Node](https://img.shields.io/badge/-spring-43853d?style=for-the-badge&logo=spring&logoColor=white)
