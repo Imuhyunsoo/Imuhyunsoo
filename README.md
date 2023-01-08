@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-222222?style=for-the-badge&logo=java)
 ![oracle](https://img.shields.io/badge/-oracle-222222?style=for-the-badge&logo=oracle)
-![python](https://img.shields.io/badge/-pytnon-0067a3?style=for-the-badge&logo=python)
+![python](https://img.shields.io/badge/-pytnon-525252?style=for-the-badge&logo=python)
 ![Node](https://img.shields.io/badge/-spring-43853d?style=for-the-badge&logo=spring&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
