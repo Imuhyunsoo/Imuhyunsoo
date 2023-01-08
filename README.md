@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WellcomeMyStar&fontSize=90" />
+  
+  <h1>🤚Hello ThinkMoomin World Wellcome</h1>
 
 <!--
 **ThinkingMoomin/ThinkingMoomin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> My tech stack 📚 </h2>
+  <h2> My tech stack 📚 </h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
@@ -27,4 +30,5 @@ Here are some ideas to get you started:
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-ffffff?style=for-the-badge&logo=androidstudio)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
+  </div>
 
