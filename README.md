@@ -40,7 +40,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
       <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
-      
+      <img src="https://img.shields.io/badge/Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff">      
       <br>
   </div>
 </div>
