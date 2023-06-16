@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Im HyunSoo&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=ImHyunSoo&fontSize=90" />
   
   <h1>🤚Hello ImHyunSoo World Wellcome</h1>
 
